@@ -4,17 +4,17 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mypodcast</title>
+    <title>Maverick Thoughts</title>
     <link>https://mikejanzen.github.io/mypodcast-feed/main</link>
-    <description>AI-generated podcast conversations on whatever you're curious about — research papers, blog posts, talks. Calibrated to the listener; you can tap to pause and ask the hosts a question. Hosts are AI personas; this is commentary and synthesis, not endorsement by any real person named.</description>
+    <description>Some things I generated to learn while biking</description>
     <language>en-us</language>
-    <copyright>© 2026 Mike Janzen</copyright>
-    <lastBuildDate>Fri, 15 May 2026 12:01:03 +0000</lastBuildDate>
+    <copyright>© 2026 Maverick Winzen</copyright>
+    <lastBuildDate>Fri, 15 May 2026 22:24:38 +0000</lastBuildDate>
     <atom:link href="https://mikejanzen.github.io/mypodcast-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Mike Janzen</itunes:author>
-    <itunes:summary>AI-generated podcast conversations on whatever you're curious about — research papers, blog posts, talks. Calibrated to the listener; you can tap to pause and ask the hosts a question. Hosts are AI personas; this is commentary and synthesis, not endorsement by any real person named.</itunes:summary>
+    <itunes:author>Maverick Winzen</itunes:author>
+    <itunes:summary>Some things I generated to learn while biking</itunes:summary>
     <itunes:owner>
-      <itunes:name>Mike Janzen</itunes:name>
+      <itunes:name>Maverick Winzen</itunes:name>
       <itunes:email>mjanzen@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://mikejanzen.github.io/mypodcast-feed/main/cover.jpg"/>
