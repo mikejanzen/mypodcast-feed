@@ -9,7 +9,7 @@
     <description>AI-generated podcast conversations on whatever you're curious about — research papers, blog posts, talks. Calibrated to the listener; you can tap to pause and ask the hosts a question. Hosts are AI personas; this is commentary and synthesis, not endorsement by any real person named.</description>
     <language>en-us</language>
     <copyright>© 2026 Mike Janzen</copyright>
-    <lastBuildDate>Fri, 15 May 2026 11:49:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 12:01:03 +0000</lastBuildDate>
     <atom:link href="https://mikejanzen.github.io/mypodcast-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Mike Janzen</itunes:author>
     <itunes:summary>AI-generated podcast conversations on whatever you're curious about — research papers, blog posts, talks. Calibrated to the listener; you can tap to pause and ask the hosts a question. Hosts are AI personas; this is commentary and synthesis, not endorsement by any real person named.</itunes:summary>
@@ -24,6 +24,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    <item>
+      <title>What is Life? Information, Physics, and the Longest Game</title>
+      <description><![CDATA[Source: What Is Life? A thermodynamic, entropic, and computational reckoning.. Hosts: Joscha Bach and Karl Friston. Segments: The Elusive Definition of Life; Information's Causal Grip on Matter; The Free-Energy Principle as a Lens for Life; Assembly Theory and Quantifying Biosignatures; Evolution, Substrate, and the Boundaries of Life; Reconciling Frameworks and Future Directions. This is an AI-generated conversation. Hosts are AI personas; content is commentary and synthesis, not authored by any real person named.]]></description>
+      <enclosure url="https://mikejanzen.github.io/mypodcast-feed/main/episodes/what-is-life-a-thermodynamic-entropic-and-computat.mp3" length="33295269" type="audio/mpeg"/>
+      <guid isPermaLink="false">02b9ea9480a2fb4fa6824d55cf8ec97494149f2f</guid>
+      <pubDate>Fri, 15 May 2026 12:00:47 +0000</pubDate>
+      <itunes:duration>0:54:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://mikejanzen.github.io/mypodcast-feed/main/covers/what-is-life-a-thermodynamic-entropic-and-computat.jpg"/>
+    </item>
     <item>
       <title>The AI That Rewrites Itself: FOOM or Fizzle?</title>
       <description><![CDATA[Source: Recursive Self-Improvement by Eliezer Yudkowsky. Hosts: Joscha Bach and Wren. Segments: Understanding Recursive Self-Improvement (RSI); Yudkowsky's 'FOOM' Hypothesis; Is AI's RSI Truly Novel?; The 'Flatline or Blow Up' Dichotomy; Revisiting Historical Analogies and 'Soft Takeoff' Loopholes; Implications for AI Safety and the Future. This is an AI-generated conversation. Hosts are AI personas; content is commentary and synthesis, not authored by any real person named.]]></description>
